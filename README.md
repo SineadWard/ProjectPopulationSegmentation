@@ -1,2 +1,2 @@
 # ProjectPopulationSegmentation
-Population Segmentation looking at the 
+Population Segmentation anaylsis using k-means methodology.
